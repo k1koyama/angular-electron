@@ -10,7 +10,7 @@
 
 # Introduction
 
-Bootstrap and package your project with Angular 8 and Electron (Typescript + SASS + Hot Reload) for creating Desktop applications.
+Bootstrap and package your project with Angular 8 and Electron (Typescript + LESS + Hot Reload) for creating Desktop applications.
 
 Currently runs with:
 
